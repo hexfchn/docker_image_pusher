@@ -1,2 +1,1 @@
-ubuntu
-centos
+ubuntu:23.10
