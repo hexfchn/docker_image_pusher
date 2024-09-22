@@ -1,2 +1,1 @@
-ubuntu:20.04
-centos:latest
+ubuntu:20.10
